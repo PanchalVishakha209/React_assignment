@@ -1,0 +1,60 @@
+1.What is React Js?
+Ans.The React. js framework is an open-source JavaScript framework and library developed by Facebook.
+
+2.What is NPM in React Js?
+Ans.NPM is short for node package manager, an online directory that contains the various already registered open-source packages.
+
+3.What is Role of Node Js in react Js?
+Ans.NodeJS is a framework of JavaScript which is mainly used for working with the backend of our application or building the backend using JavaScript, 
+    whereas ReactJS is a JavaScript front-end library.
+
+4.What is CLI command In React Js?
+Ans.js and React. The CLI will be used to create a Node. js microservice project. 
+    It will be similar to how the create-react-app works in that you can run it using npx or just install it as a global package.
+
+5.What is Components in React Js?
+Ans.Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML. 
+    Components come in two types, Class components and Function components, in this tutorial we will concentrate on Function components.
+
+6.What is Header and Content Components in React Js?
+Ans.Headers are compositions that extend standard navbar functionalities. 
+    They contain additional components like a jumbotron, sub-navbar, or image covers which serve as a containers for extra navigation elements - usually links, forms, or call-to-action buttons.
+
+7.How to install React Js on Windows, Linux Operating System? How to Install
+Ans.To install the full React toolchain on WSL, we recommend using create-react-app:
+
+	1.Open a terminal(Windows Command Prompt or PowerShell).
+
+	2.Create a new project folder: mkdir ReactProjects and enter that directory: cd ReactProjects.
+
+	3.Install React using create-react-app, a tool that installs all of the dependencies to build and run a full React.js application:npx create-react-app my-app
+
+	4.This will first ask for your permission to temporarily install create-react-app and it's associated packages. Once completed, change directories into your new app ("my-app" or whatever you've chosen to call it): cd my-app.
+
+	5.Start your new React app:npm start
+	This command will start up the Node.js server and launch a new browser window displaying your app. You can use Ctrl + c to stop running the React app in your command line.
+	
+	6.When you're ready to deploy your web app to production, running npm run build will create a build of your app in the "build" folder. 
+
+8.NPM and How to check version of NPM?
+Ans.Type the command npm -v or npm –version in your command prompt to see the given output.
+
+9.How to check version of React Js?
+Ans.To check which React version is your project using you need to open the package. json. 
+    Take a look under the dependencies section. 
+    It should list all of the dependencies of your project and one of those should be React.
+
+10.How to change in components of React Js?
+Ans.forceUpdate() By default, when your component's state or props change, your component will re-render. 
+    If your render() method depends on some other data, you can tell React that the component needs re-rendering by calling forceUpdate().
+
+11.How to Create a List View in React Js?
+Ans.The following section explains the required steps to build the simple ListView component with its basic usage in step by step procedure.
+    1.Dependencies. ...
+    2.Installation and Configuration. ...
+    3.Adding Syncfusion packages. ...
+    4.Adding ListView component. ...
+    5.Adding CSS Reference. ...
+    6.Bind dataSource. ...
+    7.Running the application. ...
+    8.See Also.
